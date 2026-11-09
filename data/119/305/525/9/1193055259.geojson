@@ -39,7 +39,7 @@
         "gn:id":926193
     },
     "wof:country":"MW",
-    "wof:geomhash":"d0add1dcc11d40fbdc41412fcddcc132",
+    "wof:geomhash":"791c69ee8d35176b4defa294cd399e82",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,5 +64,5 @@
     35.23633,
     -16.67517999999999
 ],
-  "geometry": {"coordinates":[35.23633,-16.67517999999999],"type":"Point"}
+  "geometry": {"coordinates":[35.23633,-16.67518],"type":"Point"}
 }
