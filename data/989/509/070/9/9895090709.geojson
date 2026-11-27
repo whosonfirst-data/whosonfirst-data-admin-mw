@@ -1,0 +1,72 @@
+{
+  "id": 9895090709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.79861,-11.00459,33.79861,-11.00459",
+    "geom:latitude":-11.00459,
+    "geom:longitude":33.79861,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12177557: name \"Chozoli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12177557"
+        },
+        {
+            "citation":"GeoNames populated place 12177557: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12177557"
+        },
+        {
+            "citation":"GeoNames populated place 12177557: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12177557"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890455827 (Rumphi), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890455827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12177557
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"71b56e92a28ee812bc5fb9cd77e41e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890455827,
+            "locality_id":9895090709
+        }
+    ],
+    "wof:id":9895090709,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Chozoli",
+    "wof:parent_id":890455827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.79861,
+    -11.00459,
+    33.79861,
+    -11.00459
+],
+  "geometry": {"coordinates":[33.79861,-11.00459],"type":"Point"}
+}

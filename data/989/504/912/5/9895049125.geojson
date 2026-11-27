@@ -1,0 +1,72 @@
+{
+  "id": 9895049125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.92034,-9.90709,33.92034,-9.90709",
+    "geom:latitude":-9.90709,
+    "geom:longitude":33.92034,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12170157: name \"Kayunga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12170157"
+        },
+        {
+            "citation":"GeoNames populated place 12170157: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12170157"
+        },
+        {
+            "citation":"GeoNames populated place 12170157: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12170157"
+        },
+        {
+            "citation":"The hierarchy of WOF region 1108784757 (Karonga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        1108784757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12170157
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"5888e26f642c8e60728b3e300ef0e737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":9895049125,
+            "region_id":1108784757
+        }
+    ],
+    "wof:id":9895049125,
+    "wof:lastmodified":1795735047,
+    "wof:name":"Kayunga",
+    "wof:parent_id":1108784757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.92034,
+    -9.90709,
+    33.92034,
+    -9.90709
+],
+  "geometry": {"coordinates":[33.92034,-9.90709],"type":"Point"}
+}

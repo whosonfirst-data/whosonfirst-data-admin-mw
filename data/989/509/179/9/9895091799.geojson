@@ -1,0 +1,72 @@
+{
+  "id": 9895091799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.96675,-13.47275,32.96675,-13.47275",
+    "geom:latitude":-13.47275,
+    "geom:longitude":32.96675,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12183130: name \"Dule\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12183130"
+        },
+        {
+            "citation":"GeoNames populated place 12183130: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12183130"
+        },
+        {
+            "citation":"GeoNames populated place 12183130: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12183130"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438057 (Mchinji), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12183130
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"4ecdf358184b253f5ca7ac97d4b3fa7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438057,
+            "locality_id":9895091799
+        }
+    ],
+    "wof:id":9895091799,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Dule",
+    "wof:parent_id":890438057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.96675,
+    -13.47275,
+    32.96675,
+    -13.47275
+],
+  "geometry": {"coordinates":[32.96675,-13.47275],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895091917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3846,-13.47656,33.3846,-13.47656",
+    "geom:latitude":-13.47656,
+    "geom:longitude":33.3846,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12183327: name \"Ntchenthe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12183327"
+        },
+        {
+            "citation":"GeoNames populated place 12183327: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12183327"
+        },
+        {
+            "citation":"GeoNames populated place 12183327: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12183327"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438063 (Kasungu), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12183327
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"5e393fe660ea646ef91131f8f5b512e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438063,
+            "locality_id":9895091917
+        }
+    ],
+    "wof:id":9895091917,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Ntchenthe",
+    "wof:parent_id":890438063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3846,
+    -13.47656,
+    33.3846,
+    -13.47656
+],
+  "geometry": {"coordinates":[33.3846,-13.47656],"type":"Point"}
+}

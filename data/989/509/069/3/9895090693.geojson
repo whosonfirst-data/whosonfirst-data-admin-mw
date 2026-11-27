@@ -1,0 +1,72 @@
+{
+  "id": 9895090693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.81813,-11.17176,33.81813,-11.17176",
+    "geom:latitude":-11.17176,
+    "geom:longitude":33.81813,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12177536: name \"Simon Munthali\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12177536"
+        },
+        {
+            "citation":"GeoNames populated place 12177536: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12177536"
+        },
+        {
+            "citation":"GeoNames populated place 12177536: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12177536"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438051 (Mzimba), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12177536
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"9f558588921117d67180bdfb30835ce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438051,
+            "locality_id":9895090693
+        }
+    ],
+    "wof:id":9895090693,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Simon Munthali",
+    "wof:parent_id":890438051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.81813,
+    -11.17176,
+    33.81813,
+    -11.17176
+],
+  "geometry": {"coordinates":[33.81813,-11.17176],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895049276,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.21582,-10.42308,34.21582,-10.42308",
+    "geom:latitude":-10.42308,
+    "geom:longitude":34.21582,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12182267: name \"Mwaungulu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12182267"
+        },
+        {
+            "citation":"GeoNames populated place 12182267: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12182267"
+        },
+        {
+            "citation":"GeoNames populated place 12182267: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12182267"
+        },
+        {
+            "citation":"The hierarchy of WOF region 1108784757 (Karonga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        1108784757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12182267
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"86d12f6b1548f64a2cec23d3c2c943bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":9895049276,
+            "region_id":1108784757
+        }
+    ],
+    "wof:id":9895049276,
+    "wof:lastmodified":1795735047,
+    "wof:name":"Mwaungulu",
+    "wof:parent_id":1108784757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.21582,
+    -10.42308,
+    34.21582,
+    -10.42308
+],
+  "geometry": {"coordinates":[34.21582,-10.42308],"type":"Point"}
+}

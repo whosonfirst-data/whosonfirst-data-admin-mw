@@ -1,0 +1,72 @@
+{
+  "id": 9895092174,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.13052,-13.66614,33.13052,-13.66614",
+    "geom:latitude":-13.66614,
+    "geom:longitude":33.13052,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12185044: name \"Mtorongo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12185044"
+        },
+        {
+            "citation":"GeoNames populated place 12185044: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12185044"
+        },
+        {
+            "citation":"GeoNames populated place 12185044: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12185044"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438057 (Mchinji), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12185044
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"4ee89748d8e8f44f81cea257441c0a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438057,
+            "locality_id":9895092174
+        }
+    ],
+    "wof:id":9895092174,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Mtorongo",
+    "wof:parent_id":890438057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.13052,
+    -13.66614,
+    33.13052,
+    -13.66614
+],
+  "geometry": {"coordinates":[33.13052,-13.66614],"type":"Point"}
+}

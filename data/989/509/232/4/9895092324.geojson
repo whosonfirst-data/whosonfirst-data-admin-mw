@@ -1,0 +1,72 @@
+{
+  "id": 9895092324,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.59395,-13.58851,33.59395,-13.58851",
+    "geom:latitude":-13.58851,
+    "geom:longitude":33.59395,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12185437: name \"Kabwela\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12185437"
+        },
+        {
+            "citation":"GeoNames populated place 12185437: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12185437"
+        },
+        {
+            "citation":"GeoNames populated place 12185437: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12185437"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438069 (Dowa), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12185437
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"ef1807dffec982f8267eead3f407319e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438069,
+            "locality_id":9895092324
+        }
+    ],
+    "wof:id":9895092324,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Kabwela",
+    "wof:parent_id":890438069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.59395,
+    -13.58851,
+    33.59395,
+    -13.58851
+],
+  "geometry": {"coordinates":[33.59395,-13.58851],"type":"Point"}
+}

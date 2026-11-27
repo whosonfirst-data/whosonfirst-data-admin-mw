@@ -1,0 +1,72 @@
+{
+  "id": 9895090573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.58607,-10.9619,33.58607,-10.9619",
+    "geom:latitude":-10.9619,
+    "geom:longitude":33.58607,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12170629: name \"Zilinga Mkandawire\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12170629"
+        },
+        {
+            "citation":"GeoNames populated place 12170629: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12170629"
+        },
+        {
+            "citation":"GeoNames populated place 12170629: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12170629"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890455827 (Rumphi), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890455827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12170629
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"7e02bea2c766318ca41e3da3eecc8a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890455827,
+            "locality_id":9895090573
+        }
+    ],
+    "wof:id":9895090573,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Zilinga Mkandawire",
+    "wof:parent_id":890455827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.58607,
+    -10.9619,
+    33.58607,
+    -10.9619
+],
+  "geometry": {"coordinates":[33.58607,-10.9619],"type":"Point"}
+}

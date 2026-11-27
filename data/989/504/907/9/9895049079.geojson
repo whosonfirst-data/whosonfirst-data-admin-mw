@@ -1,0 +1,72 @@
+{
+  "id": 9895049079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.77368,-9.58989,33.77368,-9.58989",
+    "geom:latitude":-9.58989,
+    "geom:longitude":33.77368,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12170057: name \"Masoko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12170057"
+        },
+        {
+            "citation":"GeoNames populated place 12170057: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12170057"
+        },
+        {
+            "citation":"GeoNames populated place 12170057: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12170057"
+        },
+        {
+            "citation":"The hierarchy of WOF region 1108784757 (Karonga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        1108784757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12170057
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"490795e606aeab24c9fd310fb44a8c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":9895049079,
+            "region_id":1108784757
+        }
+    ],
+    "wof:id":9895049079,
+    "wof:lastmodified":1795735047,
+    "wof:name":"Masoko",
+    "wof:parent_id":1108784757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.77368,
+    -9.58989,
+    33.77368,
+    -9.58989
+],
+  "geometry": {"coordinates":[33.77368,-9.58989],"type":"Point"}
+}

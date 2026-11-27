@@ -1,0 +1,72 @@
+{
+  "id": 9895091733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.74023,-12.62441,33.74023,-12.62441",
+    "geom:latitude":-12.62441,
+    "geom:longitude":33.74023,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12183047: name \"Kanjuchi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12183047"
+        },
+        {
+            "citation":"GeoNames populated place 12183047: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12183047"
+        },
+        {
+            "citation":"GeoNames populated place 12183047: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12183047"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438051 (Mzimba), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12183047
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"005f133fee0536132ecfa6d14e26f305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438051,
+            "locality_id":9895091733
+        }
+    ],
+    "wof:id":9895091733,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Kanjuchi",
+    "wof:parent_id":890438051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.74023,
+    -12.62441,
+    33.74023,
+    -12.62441
+],
+  "geometry": {"coordinates":[33.74023,-12.62441],"type":"Point"}
+}

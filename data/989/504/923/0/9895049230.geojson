@@ -1,0 +1,72 @@
+{
+  "id": 9895049230,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.99297,-11.45398,33.99297,-11.45398",
+    "geom:latitude":-11.45398,
+    "geom:longitude":33.99297,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12177789: name \"Kangaba Mhoni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12177789"
+        },
+        {
+            "citation":"GeoNames populated place 12177789: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12177789"
+        },
+        {
+            "citation":"GeoNames populated place 12177789: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12177789"
+        },
+        {
+            "citation":"The hierarchy of WOF region 1108784759 (Mzuzu City), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        1108784759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12177789
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"b7cd4c198bfcdad371208d83d88bf769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":9895049230,
+            "region_id":1108784759
+        }
+    ],
+    "wof:id":9895049230,
+    "wof:lastmodified":1795735047,
+    "wof:name":"Kangaba Mhoni",
+    "wof:parent_id":1108784759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.99297,
+    -11.45398,
+    33.99297,
+    -11.45398
+],
+  "geometry": {"coordinates":[33.99297,-11.45398],"type":"Point"}
+}

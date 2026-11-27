@@ -1,0 +1,74 @@
+{
+  "id": 9895091170,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.26408,-10.43741,34.26408,-10.43741",
+    "geom:latitude":-10.43741,
+    "geom:longitude":34.26408,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12182313: name \"Mwandovi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12182313"
+        },
+        {
+            "citation":"GeoNames populated place 12182313: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12182313"
+        },
+        {
+            "citation":"GeoNames populated place 12182313: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12182313"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438065 (Karonga), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438065,
+        1108784757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12182313
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"029fad9caac7177cd4c6e74ac24a330c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438065,
+            "locality_id":9895091170,
+            "region_id":1108784757
+        }
+    ],
+    "wof:id":9895091170,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Mwandovi",
+    "wof:parent_id":890438065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.26408,
+    -10.43741,
+    34.26408,
+    -10.43741
+],
+  "geometry": {"coordinates":[34.26408,-10.43741],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895092207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.28448,-13.60192,33.28448,-13.60192",
+    "geom:latitude":-13.60192,
+    "geom:longitude":33.28448,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12185094: name \"Kamere\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12185094"
+        },
+        {
+            "citation":"GeoNames populated place 12185094: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12185094"
+        },
+        {
+            "citation":"GeoNames populated place 12185094: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12185094"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438057 (Mchinji), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12185094
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"4ad9e8182e9c5a46defe00c4449523cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438057,
+            "locality_id":9895092207
+        }
+    ],
+    "wof:id":9895092207,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Kamere",
+    "wof:parent_id":890438057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.28448,
+    -13.60192,
+    33.28448,
+    -13.60192
+],
+  "geometry": {"coordinates":[33.28448,-13.60192],"type":"Point"}
+}

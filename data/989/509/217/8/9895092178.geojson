@@ -1,0 +1,72 @@
+{
+  "id": 9895092178,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.12579,-13.59155,33.12579,-13.59155",
+    "geom:latitude":-13.59155,
+    "geom:longitude":33.12579,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12185048: name \"Mkoleza\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12185048"
+        },
+        {
+            "citation":"GeoNames populated place 12185048: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12185048"
+        },
+        {
+            "citation":"GeoNames populated place 12185048: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12185048"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438057 (Mchinji), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12185048
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"2ec3cb5940a0a199545e368f4ec189a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438057,
+            "locality_id":9895092178
+        }
+    ],
+    "wof:id":9895092178,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Mkoleza",
+    "wof:parent_id":890438057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.12579,
+    -13.59155,
+    33.12579,
+    -13.59155
+],
+  "geometry": {"coordinates":[33.12579,-13.59155],"type":"Point"}
+}

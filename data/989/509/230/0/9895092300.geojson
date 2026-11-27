@@ -1,0 +1,72 @@
+{
+  "id": 9895092300,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.28666,-13.90929,33.28666,-13.90929",
+    "geom:latitude":-13.90929,
+    "geom:longitude":33.28666,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12185253: name \"Cholowera\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12185253"
+        },
+        {
+            "citation":"GeoNames populated place 12185253: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12185253"
+        },
+        {
+            "citation":"GeoNames populated place 12185253: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12185253"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438057 (Mchinji), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12185253
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"4309f97994413c601c90553100f31525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438057,
+            "locality_id":9895092300
+        }
+    ],
+    "wof:id":9895092300,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Cholowera",
+    "wof:parent_id":890438057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.28666,
+    -13.90929,
+    33.28666,
+    -13.90929
+],
+  "geometry": {"coordinates":[33.28666,-13.90929],"type":"Point"}
+}

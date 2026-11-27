@@ -1,0 +1,72 @@
+{
+  "id": 9895049242,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.04434,-10.1899,34.04434,-10.1899",
+    "geom:latitude":-10.1899,
+    "geom:longitude":34.04434,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12182211: name \"Mwafulirwa Mwambelo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12182211"
+        },
+        {
+            "citation":"GeoNames populated place 12182211: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12182211"
+        },
+        {
+            "citation":"GeoNames populated place 12182211: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12182211"
+        },
+        {
+            "citation":"The hierarchy of WOF region 1108784757 (Karonga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        1108784757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12182211
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"9bb08b7af8ad8e6c446528a59c5d444a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":9895049242,
+            "region_id":1108784757
+        }
+    ],
+    "wof:id":9895049242,
+    "wof:lastmodified":1795735047,
+    "wof:name":"Mwafulirwa Mwambelo",
+    "wof:parent_id":1108784757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.04434,
+    -10.1899,
+    34.04434,
+    -10.1899
+],
+  "geometry": {"coordinates":[34.04434,-10.1899],"type":"Point"}
+}

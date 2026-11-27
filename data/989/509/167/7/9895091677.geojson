@@ -1,0 +1,72 @@
+{
+  "id": 9895091677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.60669,-12.62915,33.60669,-12.62915",
+    "geom:latitude":-12.62915,
+    "geom:longitude":33.60669,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12182980: name \"Lupenga Kumwenda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12182980"
+        },
+        {
+            "citation":"GeoNames populated place 12182980: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12182980"
+        },
+        {
+            "citation":"GeoNames populated place 12182980: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12182980"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438051 (Mzimba), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12182980
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"5211e1ef1b89d9ac1bbbb892451fb46d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438051,
+            "locality_id":9895091677
+        }
+    ],
+    "wof:id":9895091677,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Lupenga Kumwenda",
+    "wof:parent_id":890438051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.60669,
+    -12.62915,
+    33.60669,
+    -12.62915
+],
+  "geometry": {"coordinates":[33.60669,-12.62915],"type":"Point"}
+}

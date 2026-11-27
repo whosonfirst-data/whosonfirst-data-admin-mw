@@ -1,0 +1,72 @@
+{
+  "id": 9895049056,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.83718,-9.65944,33.83718,-9.65944",
+    "geom:latitude":-9.65944,
+    "geom:longitude":33.83718,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12170026: name \"Mwenepela\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12170026"
+        },
+        {
+            "citation":"GeoNames populated place 12170026: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12170026"
+        },
+        {
+            "citation":"GeoNames populated place 12170026: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12170026"
+        },
+        {
+            "citation":"The hierarchy of WOF region 1108784757 (Karonga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        1108784757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12170026
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"8965f7373f904bee715d9c5fe935610d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":9895049056,
+            "region_id":1108784757
+        }
+    ],
+    "wof:id":9895049056,
+    "wof:lastmodified":1795735047,
+    "wof:name":"Mwenepela",
+    "wof:parent_id":1108784757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.83718,
+    -9.65944,
+    33.83718,
+    -9.65944
+],
+  "geometry": {"coordinates":[33.83718,-9.65944],"type":"Point"}
+}

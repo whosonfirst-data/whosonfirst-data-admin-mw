@@ -1,0 +1,72 @@
+{
+  "id": 9895090522,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.76157,-10.86288,33.76157,-10.86288",
+    "geom:latitude":-10.86288,
+    "geom:longitude":33.76157,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12170539: name \"Matupi Mkandawire\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12170539"
+        },
+        {
+            "citation":"GeoNames populated place 12170539: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12170539"
+        },
+        {
+            "citation":"GeoNames populated place 12170539: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12170539"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890455827 (Rumphi), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890455827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12170539
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"089064670709c37d697714c7822bea2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890455827,
+            "locality_id":9895090522
+        }
+    ],
+    "wof:id":9895090522,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Matupi Mkandawire",
+    "wof:parent_id":890455827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.76157,
+    -10.86288,
+    33.76157,
+    -10.86288
+],
+  "geometry": {"coordinates":[33.76157,-10.86288],"type":"Point"}
+}

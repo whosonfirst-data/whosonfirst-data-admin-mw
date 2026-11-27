@@ -1,0 +1,72 @@
+{
+  "id": 9895092005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.765,-13.13027,33.765,-13.13027",
+    "geom:latitude":-13.13027,
+    "geom:longitude":33.765,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12183474: name \"Gamba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12183474"
+        },
+        {
+            "citation":"GeoNames populated place 12183474: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12183474"
+        },
+        {
+            "citation":"GeoNames populated place 12183474: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12183474"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890430565 (Ntchisi), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890430565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12183474
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"d695140e1519c7b6c6273a83455c3cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890430565,
+            "locality_id":9895092005
+        }
+    ],
+    "wof:id":9895092005,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Gamba",
+    "wof:parent_id":890430565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.765,
+    -13.13027,
+    33.765,
+    -13.13027
+],
+  "geometry": {"coordinates":[33.765,-13.13027],"type":"Point"}
+}

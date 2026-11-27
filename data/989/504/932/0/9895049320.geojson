@@ -1,0 +1,72 @@
+{
+  "id": 9895049320,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.76068,-13.93328,33.76068,-13.93328",
+    "geom:latitude":-13.93328,
+    "geom:longitude":33.76068,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12185557: name \"Mtalanje\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12185557"
+        },
+        {
+            "citation":"GeoNames populated place 12185557: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12185557"
+        },
+        {
+            "citation":"GeoNames populated place 12185557: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12185557"
+        },
+        {
+            "citation":"The hierarchy of WOF region 1108784755 (Lilongwe City), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        1108784755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12185557
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"0525031b36142c7bee67e4bd41433167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":9895049320,
+            "region_id":1108784755
+        }
+    ],
+    "wof:id":9895049320,
+    "wof:lastmodified":1795735047,
+    "wof:name":"Mtalanje",
+    "wof:parent_id":1108784755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.76068,
+    -13.93328,
+    33.76068,
+    -13.93328
+],
+  "geometry": {"coordinates":[33.76068,-13.93328],"type":"Point"}
+}

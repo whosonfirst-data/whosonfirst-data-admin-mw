@@ -1,0 +1,72 @@
+{
+  "id": 9895091950,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.49855,-13.42199,33.49855,-13.42199",
+    "geom:latitude":-13.42199,
+    "geom:longitude":33.49855,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12183367: name \"Ngoko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12183367"
+        },
+        {
+            "citation":"GeoNames populated place 12183367: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12183367"
+        },
+        {
+            "citation":"GeoNames populated place 12183367: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12183367"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438069 (Dowa), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12183367
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"8488d9bd32d8e400cfc6236e498e40a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438069,
+            "locality_id":9895091950
+        }
+    ],
+    "wof:id":9895091950,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Ngoko",
+    "wof:parent_id":890438069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.49855,
+    -13.42199,
+    33.49855,
+    -13.42199
+],
+  "geometry": {"coordinates":[33.49855,-13.42199],"type":"Point"}
+}

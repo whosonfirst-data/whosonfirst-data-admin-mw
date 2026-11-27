@@ -1,0 +1,72 @@
+{
+  "id": 9895091253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.21983,-10.95754,34.21983,-10.95754",
+    "geom:latitude":-10.95754,
+    "geom:longitude":34.21983,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12182454: name \"Kakusa Mkandawire\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12182454"
+        },
+        {
+            "citation":"GeoNames populated place 12182454: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12182454"
+        },
+        {
+            "citation":"GeoNames populated place 12182454: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12182454"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890455827 (Rumphi), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890455827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12182454
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"ca3a4d99942196b269fff4f45b3167d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890455827,
+            "locality_id":9895091253
+        }
+    ],
+    "wof:id":9895091253,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Kakusa Mkandawire",
+    "wof:parent_id":890455827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.21983,
+    -10.95754,
+    34.21983,
+    -10.95754
+],
+  "geometry": {"coordinates":[34.21983,-10.95754],"type":"Point"}
+}

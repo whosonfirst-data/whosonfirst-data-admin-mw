@@ -1,0 +1,72 @@
+{
+  "id": 9895091414,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.34643,-12.25813,33.34643,-12.25813",
+    "geom:latitude":-12.25813,
+    "geom:longitude":33.34643,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12182637: name \"Vakaza Banda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12182637"
+        },
+        {
+            "citation":"GeoNames populated place 12182637: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12182637"
+        },
+        {
+            "citation":"GeoNames populated place 12182637: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12182637"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438051 (Mzimba), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12182637
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"d8044c52fe1b3761946bab9cbcf4de0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438051,
+            "locality_id":9895091414
+        }
+    ],
+    "wof:id":9895091414,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Vakaza Banda",
+    "wof:parent_id":890438051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.34643,
+    -12.25813,
+    33.34643,
+    -12.25813
+],
+  "geometry": {"coordinates":[33.34643,-12.25813],"type":"Point"}
+}

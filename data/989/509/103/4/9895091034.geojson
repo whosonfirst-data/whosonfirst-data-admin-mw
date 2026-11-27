@@ -1,0 +1,72 @@
+{
+  "id": 9895091034,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.61334,-11.53122,33.61334,-11.53122",
+    "geom:latitude":-11.53122,
+    "geom:longitude":33.61334,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12177986: name \"Munyehele Mbuluma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12177986"
+        },
+        {
+            "citation":"GeoNames populated place 12177986: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12177986"
+        },
+        {
+            "citation":"GeoNames populated place 12177986: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12177986"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438051 (Mzimba), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12177986
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"588c3395b749711ece26503bf261836b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438051,
+            "locality_id":9895091034
+        }
+    ],
+    "wof:id":9895091034,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Munyehele Mbuluma",
+    "wof:parent_id":890438051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.61334,
+    -11.53122,
+    33.61334,
+    -11.53122
+],
+  "geometry": {"coordinates":[33.61334,-11.53122],"type":"Point"}
+}

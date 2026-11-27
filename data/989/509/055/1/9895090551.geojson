@@ -1,0 +1,72 @@
+{
+  "id": 9895090551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.56254,-10.77019,33.56254,-10.77019",
+    "geom:latitude":-10.77019,
+    "geom:longitude":33.56254,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12170599: name \"Mphinamwase\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12170599"
+        },
+        {
+            "citation":"GeoNames populated place 12170599: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12170599"
+        },
+        {
+            "citation":"GeoNames populated place 12170599: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12170599"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890455827 (Rumphi), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890455827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12170599
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"a465f8ed2c511a32a500dda5b0a8a624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890455827,
+            "locality_id":9895090551
+        }
+    ],
+    "wof:id":9895090551,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Mphinamwase",
+    "wof:parent_id":890455827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.56254,
+    -10.77019,
+    33.56254,
+    -10.77019
+],
+  "geometry": {"coordinates":[33.56254,-10.77019],"type":"Point"}
+}

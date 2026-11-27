@@ -1,0 +1,72 @@
+{
+  "id": 9895049277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.19326,-10.41512,34.19326,-10.41512",
+    "geom:latitude":-10.41512,
+    "geom:longitude":34.19326,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12182269: name \"Chivundiko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12182269"
+        },
+        {
+            "citation":"GeoNames populated place 12182269: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12182269"
+        },
+        {
+            "citation":"GeoNames populated place 12182269: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12182269"
+        },
+        {
+            "citation":"The hierarchy of WOF region 1108784757 (Karonga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        1108784757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12182269
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"34c7b7ade32181a1c3a9268ebea0d48d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":9895049277,
+            "region_id":1108784757
+        }
+    ],
+    "wof:id":9895049277,
+    "wof:lastmodified":1795735047,
+    "wof:name":"Chivundiko",
+    "wof:parent_id":1108784757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.19326,
+    -10.41512,
+    34.19326,
+    -10.41512
+],
+  "geometry": {"coordinates":[34.19326,-10.41512],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895094198,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.65035,-15.47225,34.65035,-15.47225",
+    "geom:latitude":-15.47225,
+    "geom:longitude":34.65035,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11820084: name \"Ligowe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11820084"
+        },
+        {
+            "citation":"GeoNames populated place 11820084: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11820084"
+        },
+        {
+            "citation":"GeoNames populated place 11820084: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11820084"
+        },
+        {
+            "citation":"The hierarchy of WOF county 9895094114 (Neno), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        9895094107,
+        9895094114
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11820084
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"88d27cccf13f3eb00cc00afe8f04f2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":9895094114,
+            "locality_id":9895094198,
+            "region_id":9895094107
+        }
+    ],
+    "wof:id":9895094198,
+    "wof:lastmodified":1795799902,
+    "wof:name":"Ligowe",
+    "wof:parent_id":9895094114,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.65035,
+    -15.47225,
+    34.65035,
+    -15.47225
+],
+  "geometry": {"coordinates":[34.65035,-15.47225],"type":"Point"}
+}

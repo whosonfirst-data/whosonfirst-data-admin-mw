@@ -1,0 +1,72 @@
+{
+  "id": 9895092297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.25866,-13.88221,33.25866,-13.88221",
+    "geom:latitude":-13.88221,
+    "geom:longitude":33.25866,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12185250: name \"Alikisando\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12185250"
+        },
+        {
+            "citation":"GeoNames populated place 12185250: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12185250"
+        },
+        {
+            "citation":"GeoNames populated place 12185250: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12185250"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438057 (Mchinji), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12185250
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"9ae8b76d388d5e61c1c6ce94f73caa00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438057,
+            "locality_id":9895092297
+        }
+    ],
+    "wof:id":9895092297,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Alikisando",
+    "wof:parent_id":890438057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.25866,
+    -13.88221,
+    33.25866,
+    -13.88221
+],
+  "geometry": {"coordinates":[33.25866,-13.88221],"type":"Point"}
+}

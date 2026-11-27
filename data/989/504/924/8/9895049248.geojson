@@ -1,0 +1,72 @@
+{
+  "id": 9895049248,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.02862,-10.28784,34.02862,-10.28784",
+    "geom:latitude":-10.28784,
+    "geom:longitude":34.02862,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12182224: name \"Chigoma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12182224"
+        },
+        {
+            "citation":"GeoNames populated place 12182224: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12182224"
+        },
+        {
+            "citation":"GeoNames populated place 12182224: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12182224"
+        },
+        {
+            "citation":"The hierarchy of WOF region 1108784757 (Karonga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        1108784757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12182224
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"a31bf76a3f57592c955d7f81d94d8034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":9895049248,
+            "region_id":1108784757
+        }
+    ],
+    "wof:id":9895049248,
+    "wof:lastmodified":1795735047,
+    "wof:name":"Chigoma",
+    "wof:parent_id":1108784757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.02862,
+    -10.28784,
+    34.02862,
+    -10.28784
+],
+  "geometry": {"coordinates":[34.02862,-10.28784],"type":"Point"}
+}

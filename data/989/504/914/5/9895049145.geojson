@@ -1,0 +1,72 @@
+{
+  "id": 9895049145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.93271,-9.95639,33.93271,-9.95639",
+    "geom:latitude":-9.95639,
+    "geom:longitude":33.93271,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12170181: name \"Katesula\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12170181"
+        },
+        {
+            "citation":"GeoNames populated place 12170181: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12170181"
+        },
+        {
+            "citation":"GeoNames populated place 12170181: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12170181"
+        },
+        {
+            "citation":"The hierarchy of WOF region 1108784757 (Karonga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        1108784757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12170181
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"1d79141575efb9294cd5b1c998e50a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":9895049145,
+            "region_id":1108784757
+        }
+    ],
+    "wof:id":9895049145,
+    "wof:lastmodified":1795735047,
+    "wof:name":"Katesula",
+    "wof:parent_id":1108784757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.93271,
+    -9.95639,
+    33.93271,
+    -9.95639
+],
+  "geometry": {"coordinates":[33.93271,-9.95639],"type":"Point"}
+}

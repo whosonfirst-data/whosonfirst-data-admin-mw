@@ -1,0 +1,72 @@
+{
+  "id": 9895090614,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.97555,-10.94893,33.97555,-10.94893",
+    "geom:latitude":-10.94893,
+    "geom:longitude":33.97555,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12170705: name \"Mkombezi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12170705"
+        },
+        {
+            "citation":"GeoNames populated place 12170705: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12170705"
+        },
+        {
+            "citation":"GeoNames populated place 12170705: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12170705"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890455827 (Rumphi), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890455827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12170705
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"e3f9fab3771dfb3a269ccd80ac1dc9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890455827,
+            "locality_id":9895090614
+        }
+    ],
+    "wof:id":9895090614,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Mkombezi",
+    "wof:parent_id":890455827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.97555,
+    -10.94893,
+    33.97555,
+    -10.94893
+],
+  "geometry": {"coordinates":[33.97555,-10.94893],"type":"Point"}
+}

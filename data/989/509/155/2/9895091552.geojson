@@ -1,0 +1,72 @@
+{
+  "id": 9895091552,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.43597,-12.72452,33.43597,-12.72452",
+    "geom:latitude":-12.72452,
+    "geom:longitude":33.43597,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12182815: name \"Chigwangwa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12182815"
+        },
+        {
+            "citation":"GeoNames populated place 12182815: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12182815"
+        },
+        {
+            "citation":"GeoNames populated place 12182815: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12182815"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438063 (Kasungu), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12182815
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"f90774a6121f3a1fb1425cbc5605e814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438063,
+            "locality_id":9895091552
+        }
+    ],
+    "wof:id":9895091552,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Chigwangwa",
+    "wof:parent_id":890438063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.43597,
+    -12.72452,
+    33.43597,
+    -12.72452
+],
+  "geometry": {"coordinates":[33.43597,-12.72452],"type":"Point"}
+}

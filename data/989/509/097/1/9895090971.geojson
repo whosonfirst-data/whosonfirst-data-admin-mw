@@ -1,0 +1,72 @@
+{
+  "id": 9895090971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.79826,-11.6605,33.79826,-11.6605",
+    "geom:latitude":-11.6605,
+    "geom:longitude":33.79826,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12177900: name \"Nthungwa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12177900"
+        },
+        {
+            "citation":"GeoNames populated place 12177900: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12177900"
+        },
+        {
+            "citation":"GeoNames populated place 12177900: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12177900"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438045 (Nkhata Bay), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12177900
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"4ed12b5b9cbc200a92eae63d5cbf72e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438045,
+            "locality_id":9895090971
+        }
+    ],
+    "wof:id":9895090971,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Nthungwa",
+    "wof:parent_id":890438045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.79826,
+    -11.6605,
+    33.79826,
+    -11.6605
+],
+  "geometry": {"coordinates":[33.79826,-11.6605],"type":"Point"}
+}

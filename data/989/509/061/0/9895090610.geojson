@@ -1,0 +1,72 @@
+{
+  "id": 9895090610,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.94895,-10.94377,33.94895,-10.94377",
+    "geom:latitude":-10.94377,
+    "geom:longitude":33.94895,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12170701: name \"Chiwaya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12170701"
+        },
+        {
+            "citation":"GeoNames populated place 12170701: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12170701"
+        },
+        {
+            "citation":"GeoNames populated place 12170701: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12170701"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890455827 (Rumphi), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890455827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12170701
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"d43a754b13a12e14cae2453f1eada1f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890455827,
+            "locality_id":9895090610
+        }
+    ],
+    "wof:id":9895090610,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Chiwaya",
+    "wof:parent_id":890455827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.94895,
+    -10.94377,
+    33.94895,
+    -10.94377
+],
+  "geometry": {"coordinates":[33.94895,-10.94377],"type":"Point"}
+}

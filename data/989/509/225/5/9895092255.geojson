@@ -1,0 +1,72 @@
+{
+  "id": 9895092255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.17466,-13.92111,33.17466,-13.92111",
+    "geom:latitude":-13.92111,
+    "geom:longitude":33.17466,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12185164: name \"Likasi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12185164"
+        },
+        {
+            "citation":"GeoNames populated place 12185164: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12185164"
+        },
+        {
+            "citation":"GeoNames populated place 12185164: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12185164"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438057 (Mchinji), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12185164
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"3554fda4c9c24cb4168285de200f1938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438057,
+            "locality_id":9895092255
+        }
+    ],
+    "wof:id":9895092255,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Likasi",
+    "wof:parent_id":890438057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.17466,
+    -13.92111,
+    33.17466,
+    -13.92111
+],
+  "geometry": {"coordinates":[33.17466,-13.92111],"type":"Point"}
+}

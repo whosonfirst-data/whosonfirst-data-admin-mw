@@ -1,0 +1,72 @@
+{
+  "id": 9895049210,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.93131,-10.00771,33.93131,-10.00771",
+    "geom:latitude":-10.00771,
+    "geom:longitude":33.93131,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12170397: name \"Mwalughali\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12170397"
+        },
+        {
+            "citation":"GeoNames populated place 12170397: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12170397"
+        },
+        {
+            "citation":"GeoNames populated place 12170397: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12170397"
+        },
+        {
+            "citation":"The hierarchy of WOF region 1108784757 (Karonga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        1108784757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12170397
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"e9b06c58d0f99dfb46a4637ceab707cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":9895049210,
+            "region_id":1108784757
+        }
+    ],
+    "wof:id":9895049210,
+    "wof:lastmodified":1795735047,
+    "wof:name":"Mwalughali",
+    "wof:parent_id":1108784757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.93131,
+    -10.00771,
+    33.93131,
+    -10.00771
+],
+  "geometry": {"coordinates":[33.93131,-10.00771],"type":"Point"}
+}

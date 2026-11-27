@@ -1,0 +1,72 @@
+{
+  "id": 9895091391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3914,-12.26609,33.3914,-12.26609",
+    "geom:latitude":-12.26609,
+    "geom:longitude":33.3914,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12182613: name \"Malanga Mtonga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12182613"
+        },
+        {
+            "citation":"GeoNames populated place 12182613: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12182613"
+        },
+        {
+            "citation":"GeoNames populated place 12182613: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12182613"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438051 (Mzimba), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12182613
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"1e60b7b9c1cce302dcdcb404380f2174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438051,
+            "locality_id":9895091391
+        }
+    ],
+    "wof:id":9895091391,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Malanga Mtonga",
+    "wof:parent_id":890438051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3914,
+    -12.26609,
+    33.3914,
+    -12.26609
+],
+  "geometry": {"coordinates":[33.3914,-12.26609],"type":"Point"}
+}

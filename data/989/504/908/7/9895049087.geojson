@@ -1,0 +1,72 @@
+{
+  "id": 9895049087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.56231,-9.89601,33.56231,-9.89601",
+    "geom:latitude":-9.89601,
+    "geom:longitude":33.56231,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12170079: name \"Amosi Mwenechilanga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12170079"
+        },
+        {
+            "citation":"GeoNames populated place 12170079: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12170079"
+        },
+        {
+            "citation":"GeoNames populated place 12170079: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12170079"
+        },
+        {
+            "citation":"The hierarchy of WOF region 1108784757 (Karonga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        1108784757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12170079
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"3feecef2035b71ac08c699d41935e4f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":9895049087,
+            "region_id":1108784757
+        }
+    ],
+    "wof:id":9895049087,
+    "wof:lastmodified":1795735047,
+    "wof:name":"Amosi Mwenechilanga",
+    "wof:parent_id":1108784757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.56231,
+    -9.89601,
+    33.56231,
+    -9.89601
+],
+  "geometry": {"coordinates":[33.56231,-9.89601],"type":"Point"}
+}

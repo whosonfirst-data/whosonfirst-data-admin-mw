@@ -1,0 +1,74 @@
+{
+  "id": 9895094119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.00089,-9.48966,33.00089,-9.48966",
+    "geom:latitude":-9.48966,
+    "geom:longitude":33.00089,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11775598: name \"Munyimbo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11775598"
+        },
+        {
+            "citation":"GeoNames populated place 11775598: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11775598"
+        },
+        {
+            "citation":"GeoNames populated place 11775598: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11775598"
+        },
+        {
+            "citation":"The hierarchy of WOF county 9895094110 (Chitipa), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        9895094108,
+        9895094110
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11775598
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"d2f2dc6638be83fd0c1b15a15d441f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":9895094110,
+            "locality_id":9895094119,
+            "region_id":9895094108
+        }
+    ],
+    "wof:id":9895094119,
+    "wof:lastmodified":1795799902,
+    "wof:name":"Munyimbo",
+    "wof:parent_id":9895094110,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.00089,
+    -9.48966,
+    33.00089,
+    -9.48966
+],
+  "geometry": {"coordinates":[33.00089,-9.48966],"type":"Point"}
+}

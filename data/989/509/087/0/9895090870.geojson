@@ -1,0 +1,72 @@
+{
+  "id": 9895090870,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.96507,-11.43116,33.96507,-11.43116",
+    "geom:latitude":-11.43116,
+    "geom:longitude":33.96507,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12177784: name \"Zanyengelela Chibiniwa Kaunda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12177784"
+        },
+        {
+            "citation":"GeoNames populated place 12177784: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12177784"
+        },
+        {
+            "citation":"GeoNames populated place 12177784: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12177784"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438051 (Mzimba), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12177784
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"7616c6e45ff5a3af8236140b58821a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438051,
+            "locality_id":9895090870
+        }
+    ],
+    "wof:id":9895090870,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Zanyengelela Chibiniwa Kaunda",
+    "wof:parent_id":890438051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.96507,
+    -11.43116,
+    33.96507,
+    -11.43116
+],
+  "geometry": {"coordinates":[33.96507,-11.43116],"type":"Point"}
+}

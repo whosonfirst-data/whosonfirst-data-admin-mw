@@ -1,0 +1,72 @@
+{
+  "id": 9895049286,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.21241,-10.34832,34.21241,-10.34832",
+    "geom:latitude":-10.34832,
+    "geom:longitude":34.21241,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12182281: name \"Libwimbimbi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12182281"
+        },
+        {
+            "citation":"GeoNames populated place 12182281: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12182281"
+        },
+        {
+            "citation":"GeoNames populated place 12182281: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12182281"
+        },
+        {
+            "citation":"The hierarchy of WOF region 1108784757 (Karonga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        1108784757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12182281
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"1ca4a1f88a7e254537f8cd938f01472d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":9895049286,
+            "region_id":1108784757
+        }
+    ],
+    "wof:id":9895049286,
+    "wof:lastmodified":1795735047,
+    "wof:name":"Libwimbimbi",
+    "wof:parent_id":1108784757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.21241,
+    -10.34832,
+    34.21241,
+    -10.34832
+],
+  "geometry": {"coordinates":[34.21241,-10.34832],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895094705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.83346,-13.92551,33.83346,-13.92551",
+    "geom:latitude":-13.92551,
+    "geom:longitude":33.83346,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12185569: name \"Kauma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12185569"
+        },
+        {
+            "citation":"GeoNames populated place 12185569: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12185569"
+        },
+        {
+            "citation":"GeoNames populated place 12185569: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12185569"
+        },
+        {
+            "citation":"The hierarchy of WOF county 9895094112 (Lilongwe), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        9895094109,
+        9895094112
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12185569
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"aefea1aaad6ad9462d93a6a419a7e868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":9895094112,
+            "locality_id":9895094705,
+            "region_id":9895094109
+        }
+    ],
+    "wof:id":9895094705,
+    "wof:lastmodified":1795799902,
+    "wof:name":"Kauma",
+    "wof:parent_id":9895094112,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.83346,
+    -13.92551,
+    33.83346,
+    -13.92551
+],
+  "geometry": {"coordinates":[33.83346,-13.92551],"type":"Point"}
+}

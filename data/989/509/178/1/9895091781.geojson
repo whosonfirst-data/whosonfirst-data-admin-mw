@@ -1,0 +1,72 @@
+{
+  "id": 9895091781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.87175,-12.92348,33.87175,-12.92348",
+    "geom:latitude":-12.92348,
+    "geom:longitude":33.87175,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12183109: name \"Mtambalika\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12183109"
+        },
+        {
+            "citation":"GeoNames populated place 12183109: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12183109"
+        },
+        {
+            "citation":"GeoNames populated place 12183109: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12183109"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438063 (Kasungu), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12183109
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"ca29b97723dc5a0838b64c3efd90355f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438063,
+            "locality_id":9895091781
+        }
+    ],
+    "wof:id":9895091781,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Mtambalika",
+    "wof:parent_id":890438063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.87175,
+    -12.92348,
+    33.87175,
+    -12.92348
+],
+  "geometry": {"coordinates":[33.87175,-12.92348],"type":"Point"}
+}

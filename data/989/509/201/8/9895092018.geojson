@@ -1,0 +1,72 @@
+{
+  "id": 9895092018,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.81373,-13.19314,33.81373,-13.19314",
+    "geom:latitude":-13.19314,
+    "geom:longitude":33.81373,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12183488: name \"Chikusa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12183488"
+        },
+        {
+            "citation":"GeoNames populated place 12183488: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12183488"
+        },
+        {
+            "citation":"GeoNames populated place 12183488: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12183488"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890430565 (Ntchisi), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890430565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12183488
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"e6b4afd1d39333a9c2eb6038daab1dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890430565,
+            "locality_id":9895092018
+        }
+    ],
+    "wof:id":9895092018,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Chikusa",
+    "wof:parent_id":890430565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.81373,
+    -13.19314,
+    33.81373,
+    -13.19314
+],
+  "geometry": {"coordinates":[33.81373,-13.19314],"type":"Point"}
+}

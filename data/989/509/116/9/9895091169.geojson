@@ -1,0 +1,74 @@
+{
+  "id": 9895091169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.26611,-10.44262,34.26611,-10.44262",
+    "geom:latitude":-10.44262,
+    "geom:longitude":34.26611,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12182311: name \"Luromo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12182311"
+        },
+        {
+            "citation":"GeoNames populated place 12182311: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12182311"
+        },
+        {
+            "citation":"GeoNames populated place 12182311: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12182311"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438065 (Karonga), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438065,
+        1108784757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12182311
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"18b473e35894e6ed7e14f3bcb91f85e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438065,
+            "locality_id":9895091169,
+            "region_id":1108784757
+        }
+    ],
+    "wof:id":9895091169,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Luromo",
+    "wof:parent_id":890438065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.26611,
+    -10.44262,
+    34.26611,
+    -10.44262
+],
+  "geometry": {"coordinates":[34.26611,-10.44262],"type":"Point"}
+}

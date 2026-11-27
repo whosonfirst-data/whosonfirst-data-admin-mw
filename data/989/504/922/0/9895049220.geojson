@@ -1,0 +1,72 @@
+{
+  "id": 9895049220,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.98748,-11.37309,33.98748,-11.37309",
+    "geom:latitude":-11.37309,
+    "geom:longitude":33.98748,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12177770: name \"Kamunkhoti Mkandawire\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12177770"
+        },
+        {
+            "citation":"GeoNames populated place 12177770: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12177770"
+        },
+        {
+            "citation":"GeoNames populated place 12177770: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12177770"
+        },
+        {
+            "citation":"The hierarchy of WOF region 1108784759 (Mzuzu City), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        1108784759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12177770
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"81b428cd682e7326cfc6c7814d6ac7ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":9895049220,
+            "region_id":1108784759
+        }
+    ],
+    "wof:id":9895049220,
+    "wof:lastmodified":1795735047,
+    "wof:name":"Kamunkhoti Mkandawire",
+    "wof:parent_id":1108784759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.98748,
+    -11.37309,
+    33.98748,
+    -11.37309
+],
+  "geometry": {"coordinates":[33.98748,-11.37309],"type":"Point"}
+}

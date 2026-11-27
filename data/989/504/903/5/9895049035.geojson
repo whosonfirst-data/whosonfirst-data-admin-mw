@@ -1,0 +1,73 @@
+{
+  "id": 9895049035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.73333,-12.06667,34.73333,-12.06667",
+    "geom:latitude":-12.06667,
+    "geom:longitude":34.73333,
+    "gn:population":7683,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 924944: name \"Likoma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/924944"
+        },
+        {
+            "citation":"GeoNames populated place 924944: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/924944"
+        },
+        {
+            "citation":"GeoNames populated place 924944: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/924944"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85675115 (Likoma), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        85675115,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924944
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"fee13dd80ca7e5e6874dab24b7ad05c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":9895049035,
+            "region_id":85675115
+        }
+    ],
+    "wof:id":9895049035,
+    "wof:lastmodified":1795735047,
+    "wof:name":"Likoma",
+    "wof:parent_id":85675115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.73333,
+    -12.06667,
+    34.73333,
+    -12.06667
+],
+  "geometry": {"coordinates":[34.73333,-12.06667],"type":"Point"}
+}

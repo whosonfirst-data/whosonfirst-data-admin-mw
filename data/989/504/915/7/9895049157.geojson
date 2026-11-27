@@ -1,0 +1,72 @@
+{
+  "id": 9895049157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.81634,-9.94858,33.81634,-9.94858",
+    "geom:latitude":-9.94858,
+    "geom:longitude":33.81634,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12170198: name \"Silu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12170198"
+        },
+        {
+            "citation":"GeoNames populated place 12170198: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12170198"
+        },
+        {
+            "citation":"GeoNames populated place 12170198: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12170198"
+        },
+        {
+            "citation":"The hierarchy of WOF region 1108784757 (Karonga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        1108784757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12170198
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"7779835b44a94a0b7f59ceffb2b15799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":9895049157,
+            "region_id":1108784757
+        }
+    ],
+    "wof:id":9895049157,
+    "wof:lastmodified":1795735047,
+    "wof:name":"Silu",
+    "wof:parent_id":1108784757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.81634,
+    -9.94858,
+    33.81634,
+    -9.94858
+],
+  "geometry": {"coordinates":[33.81634,-9.94858],"type":"Point"}
+}

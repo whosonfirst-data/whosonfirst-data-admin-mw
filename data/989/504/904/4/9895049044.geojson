@@ -1,0 +1,72 @@
+{
+  "id": 9895049044,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.70726,-9.61206,33.70726,-9.61206",
+    "geom:latitude":-9.61206,
+    "geom:longitude":33.70726,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12170008: name \"Mwaisondole\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12170008"
+        },
+        {
+            "citation":"GeoNames populated place 12170008: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12170008"
+        },
+        {
+            "citation":"GeoNames populated place 12170008: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12170008"
+        },
+        {
+            "citation":"The hierarchy of WOF region 1108784757 (Karonga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        1108784757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12170008
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"b222aa5ba9a0565b8b49f3a2a53245f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":9895049044,
+            "region_id":1108784757
+        }
+    ],
+    "wof:id":9895049044,
+    "wof:lastmodified":1795735047,
+    "wof:name":"Mwaisondole",
+    "wof:parent_id":1108784757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.70726,
+    -9.61206,
+    33.70726,
+    -9.61206
+],
+  "geometry": {"coordinates":[33.70726,-9.61206],"type":"Point"}
+}

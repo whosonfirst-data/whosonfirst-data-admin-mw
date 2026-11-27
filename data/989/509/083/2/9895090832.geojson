@@ -1,0 +1,72 @@
+{
+  "id": 9895090832,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.9346,-11.40995,33.9346,-11.40995",
+    "geom:latitude":-11.40995,
+    "geom:longitude":33.9346,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12177722: name \"Chikoka Mhango\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12177722"
+        },
+        {
+            "citation":"GeoNames populated place 12177722: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12177722"
+        },
+        {
+            "citation":"GeoNames populated place 12177722: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12177722"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438051 (Mzimba), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12177722
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"2a928b4c6d1c2604747b5fbac2738d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438051,
+            "locality_id":9895090832
+        }
+    ],
+    "wof:id":9895090832,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Chikoka Mhango",
+    "wof:parent_id":890438051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.9346,
+    -11.40995,
+    33.9346,
+    -11.40995
+],
+  "geometry": {"coordinates":[33.9346,-11.40995],"type":"Point"}
+}

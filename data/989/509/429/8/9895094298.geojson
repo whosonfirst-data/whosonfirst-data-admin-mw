@@ -1,0 +1,74 @@
+{
+  "id": 9895094298,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.52441,-9.88567,33.52441,-9.88567",
+    "geom:latitude":-9.88567,
+    "geom:longitude":33.52441,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12170076: name \"Songa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12170076"
+        },
+        {
+            "citation":"GeoNames populated place 12170076: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12170076"
+        },
+        {
+            "citation":"GeoNames populated place 12170076: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12170076"
+        },
+        {
+            "citation":"The hierarchy of WOF county 9895094110 (Chitipa), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        9895094108,
+        9895094110
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12170076
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"f4a7e74264f9c369adfa0f3f6937ae7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":9895094110,
+            "locality_id":9895094298,
+            "region_id":9895094108
+        }
+    ],
+    "wof:id":9895094298,
+    "wof:lastmodified":1795799902,
+    "wof:name":"Songa",
+    "wof:parent_id":9895094110,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.52441,
+    -9.88567,
+    33.52441,
+    -9.88567
+],
+  "geometry": {"coordinates":[33.52441,-9.88567],"type":"Point"}
+}

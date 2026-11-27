@@ -1,0 +1,72 @@
+{
+  "id": 9895091033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.6289,-11.54982,33.6289,-11.54982",
+    "geom:latitude":-11.54982,
+    "geom:longitude":33.6289,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12177985: name \"Mukondambiri Mphasi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12177985"
+        },
+        {
+            "citation":"GeoNames populated place 12177985: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12177985"
+        },
+        {
+            "citation":"GeoNames populated place 12177985: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12177985"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438051 (Mzimba), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12177985
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"f808e14a9f5af86e8a1ab27f69492b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438051,
+            "locality_id":9895091033
+        }
+    ],
+    "wof:id":9895091033,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Mukondambiri Mphasi",
+    "wof:parent_id":890438051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.6289,
+    -11.54982,
+    33.6289,
+    -11.54982
+],
+  "geometry": {"coordinates":[33.6289,-11.54982],"type":"Point"}
+}

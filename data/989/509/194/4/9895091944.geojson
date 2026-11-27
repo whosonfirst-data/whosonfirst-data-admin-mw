@@ -1,0 +1,72 @@
+{
+  "id": 9895091944,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.37394,-13.26569,33.37394,-13.26569",
+    "geom:latitude":-13.26569,
+    "geom:longitude":33.37394,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12183359: name \"Mnkholwe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12183359"
+        },
+        {
+            "citation":"GeoNames populated place 12183359: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12183359"
+        },
+        {
+            "citation":"GeoNames populated place 12183359: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12183359"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438063 (Kasungu), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12183359
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"baf10285d85025a2846faca74037af67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438063,
+            "locality_id":9895091944
+        }
+    ],
+    "wof:id":9895091944,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Mnkholwe",
+    "wof:parent_id":890438063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.37394,
+    -13.26569,
+    33.37394,
+    -13.26569
+],
+  "geometry": {"coordinates":[33.37394,-13.26569],"type":"Point"}
+}

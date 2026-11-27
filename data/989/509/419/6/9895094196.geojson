@@ -1,0 +1,74 @@
+{
+  "id": 9895094196,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.38095,-9.53762,33.38095,-9.53762",
+    "geom:latitude":-9.53762,
+    "geom:longitude":33.38095,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11775795: name \"Mwakalomba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11775795"
+        },
+        {
+            "citation":"GeoNames populated place 11775795: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11775795"
+        },
+        {
+            "citation":"GeoNames populated place 11775795: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11775795"
+        },
+        {
+            "citation":"The hierarchy of WOF county 9895094110 (Chitipa), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        9895094108,
+        9895094110
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11775795
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"76fc5802fd319c77f42d13c48b7aa353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":9895094110,
+            "locality_id":9895094196,
+            "region_id":9895094108
+        }
+    ],
+    "wof:id":9895094196,
+    "wof:lastmodified":1795799902,
+    "wof:name":"Mwakalomba",
+    "wof:parent_id":9895094110,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.38095,
+    -9.53762,
+    33.38095,
+    -9.53762
+],
+  "geometry": {"coordinates":[33.38095,-9.53762],"type":"Point"}
+}

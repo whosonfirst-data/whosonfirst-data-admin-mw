@@ -1,0 +1,72 @@
+{
+  "id": 9895091143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.31662,-11.68088,34.31662,-11.68088",
+    "geom:latitude":-11.68088,
+    "geom:longitude":34.31662,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12178132: name \"Chinthomba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12178132"
+        },
+        {
+            "citation":"GeoNames populated place 12178132: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12178132"
+        },
+        {
+            "citation":"GeoNames populated place 12178132: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12178132"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890438045 (Nkhata Bay), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890438045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12178132
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"06ed77c4b3928fe590b786218360474c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438045,
+            "locality_id":9895091143
+        }
+    ],
+    "wof:id":9895091143,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Chinthomba",
+    "wof:parent_id":890438045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.31662,
+    -11.68088,
+    34.31662,
+    -11.68088
+],
+  "geometry": {"coordinates":[34.31662,-11.68088],"type":"Point"}
+}

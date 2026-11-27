@@ -1,0 +1,72 @@
+{
+  "id": 9895049321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.75265,-13.93656,33.75265,-13.93656",
+    "geom:latitude":-13.93656,
+    "geom:longitude":33.75265,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12185712: name \"Chuzi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12185712"
+        },
+        {
+            "citation":"GeoNames populated place 12185712: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12185712"
+        },
+        {
+            "citation":"GeoNames populated place 12185712: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12185712"
+        },
+        {
+            "citation":"The hierarchy of WOF region 1108784755 (Lilongwe City), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        1108784755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12185712
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"b17debc99ec9ca19f3247094b86a147f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":9895049321,
+            "region_id":1108784755
+        }
+    ],
+    "wof:id":9895049321,
+    "wof:lastmodified":1795735047,
+    "wof:name":"Chuzi",
+    "wof:parent_id":1108784755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.75265,
+    -13.93656,
+    33.75265,
+    -13.93656
+],
+  "geometry": {"coordinates":[33.75265,-13.93656],"type":"Point"}
+}

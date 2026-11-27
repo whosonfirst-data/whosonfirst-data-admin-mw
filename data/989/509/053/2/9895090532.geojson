@@ -1,0 +1,72 @@
+{
+  "id": 9895090532,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4735,-10.86958,33.4735,-10.86958",
+    "geom:latitude":-10.86958,
+    "geom:longitude":33.4735,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12170555: name \"Khutamaji Kachali\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12170555"
+        },
+        {
+            "citation":"GeoNames populated place 12170555: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12170555"
+        },
+        {
+            "citation":"GeoNames populated place 12170555: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12170555"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890455827 (Rumphi), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        890455827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12170555
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"434ffe0ed84f9b265c931d3cb23f71e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890455827,
+            "locality_id":9895090532
+        }
+    ],
+    "wof:id":9895090532,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Khutamaji Kachali",
+    "wof:parent_id":890455827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4735,
+    -10.86958,
+    33.4735,
+    -10.86958
+],
+  "geometry": {"coordinates":[33.4735,-10.86958],"type":"Point"}
+}
