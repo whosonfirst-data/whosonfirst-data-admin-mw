@@ -1,0 +1,80 @@
+{
+  "id": 9895094114,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.70034,-15.45051,34.70034,-15.45051",
+    "geom:latitude":-15.45051,
+    "geom:longitude":34.70034,
+    "gn:population":138291,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 7628385 (Neno District): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/7628385"
+        },
+        {
+            "citation":"GeoNames division 7628385 (Neno District): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/7628385"
+        },
+        {
+            "citation":"GeoNames division 7628385 (Neno District): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/7628385"
+        },
+        {
+            "citation":"GeoNames division 7628385 (Neno District): a level 2 division under GeoNames division 923817 (Southern Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/7628385"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Neno"
+    ],
+    "name:eng_x_variant":[
+        "Neno District"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        9895094107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7628385
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"f65223215f8723c099b01d81bab65d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":9895094114,
+            "region_id":9895094107
+        }
+    ],
+    "wof:id":9895094114,
+    "wof:lastmodified":1795799859,
+    "wof:name":"Neno",
+    "wof:parent_id":9895094107,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.70034,
+    -15.45051,
+    34.70034,
+    -15.45051
+],
+  "geometry": {"coordinates":[34.70034,-15.45051],"type":"Point"}
+}

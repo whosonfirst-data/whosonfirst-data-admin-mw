@@ -19,6 +19,13 @@
     "lbl:latitude":-12.0637,
     "lbl:longitude":34.708408,
     "lbl:min_zoom":8.0,
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 1105841 (Likoma District): a level 2 division under GeoNames division 924591 (Northern Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/1105841"
+        }
+    ],
     "mps:latitude":-12.0637,
     "mps:longitude":34.708408,
     "mz:hierarchy_label":1,
@@ -75,13 +82,15 @@
     "unlc:subdivision":"MW-LK",
     "wd:wordcount":48,
     "wof:belongsto":[
+        85632383,
         102191573,
-        85632383
+        9895094108
     ],
     "wof:breaches":[
         85674821
     ],
     "wof:concordances":{
+        "gn:id":1105841,
         "gp:id":20070147,
         "iso:code":"MW-LK",
         "qs_pg:id":236296,
@@ -94,7 +103,8 @@
         {
             "continent_id":102191573,
             "country_id":85632383,
-            "region_id":85675115
+            "county_id":85675115,
+            "region_id":9895094108
         }
     ],
     "wof:id":85675115,
@@ -106,10 +116,10 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1695884852,
+    "wof:lastmodified":1795799859,
     "wof:name":"Likoma",
-    "wof:parent_id":85632383,
-    "wof:placetype":"region",
+    "wof:parent_id":9895094108,
+    "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-mw",
     "wof:subdivision":"MW-LK",
     "wof:superseded_by":[],

@@ -1,0 +1,80 @@
+{
+  "id": 9895094110,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.42541,-9.92727,33.42541,-9.92727",
+    "geom:latitude":-9.92727,
+    "geom:longitude":33.42541,
+    "gn:population":234927,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 235749 (Chitipa District): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/235749"
+        },
+        {
+            "citation":"GeoNames division 235749 (Chitipa District): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/235749"
+        },
+        {
+            "citation":"GeoNames division 235749 (Chitipa District): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/235749"
+        },
+        {
+            "citation":"GeoNames division 235749 (Chitipa District): a level 2 division under GeoNames division 924591 (Northern Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/235749"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Chitipa"
+    ],
+    "name:eng_x_variant":[
+        "Chitipa District"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        9895094108
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235749
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"ed93013f854a82fae818addb5566d4de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":9895094110,
+            "region_id":9895094108
+        }
+    ],
+    "wof:id":9895094110,
+    "wof:lastmodified":1795799859,
+    "wof:name":"Chitipa",
+    "wof:parent_id":9895094108,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.42541,
+    -9.92727,
+    33.42541,
+    -9.92727
+],
+  "geometry": {"coordinates":[33.42541,-9.92727],"type":"Point"}
+}

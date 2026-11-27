@@ -1,0 +1,78 @@
+{
+  "id": 9895094107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35,-15.5,35,-15.5",
+    "geom:latitude":-15.5,
+    "geom:longitude":35.0,
+    "gn:population":7750629,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 923817 (Southern Region): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/923817"
+        },
+        {
+            "citation":"GeoNames division 923817 (Southern Region): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/923817"
+        },
+        {
+            "citation":"GeoNames division 923817 (Southern Region): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/923817"
+        },
+        {
+            "citation":"GeoNames division 923817 (Southern Region): a level 1 division.",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/923817"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Southern"
+    ],
+    "name:eng_x_variant":[
+        "Southern Region"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923817
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"f6197a0cae168a00c423c5e9bbd6df30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "region_id":9895094107
+        }
+    ],
+    "wof:id":9895094107,
+    "wof:lastmodified":1795799859,
+    "wof:name":"Southern",
+    "wof:parent_id":85632383,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0,
+    -15.5,
+    35.0,
+    -15.5
+],
+  "geometry": {"coordinates":[35,-15.5],"type":"Point"}
+}

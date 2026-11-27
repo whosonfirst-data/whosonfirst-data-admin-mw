@@ -1,0 +1,80 @@
+{
+  "id": 9895094112,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.68407,-14.01962,33.68407,-14.01962",
+    "geom:latitude":-14.01962,
+    "geom:longitude":33.68407,
+    "gn:population":2600000,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 927964 (Lilongwe District): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/927964"
+        },
+        {
+            "citation":"GeoNames division 927964 (Lilongwe District): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/927964"
+        },
+        {
+            "citation":"GeoNames division 927964 (Lilongwe District): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/927964"
+        },
+        {
+            "citation":"GeoNames division 927964 (Lilongwe District): a level 2 division under GeoNames division 931597 (Central Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/927964"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Lilongwe"
+    ],
+    "name:eng_x_variant":[
+        "Lilongwe District"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        9895094109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927964
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"97bfb6ceaf78f78cee1582057f2ccef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":9895094112,
+            "region_id":9895094109
+        }
+    ],
+    "wof:id":9895094112,
+    "wof:lastmodified":1795799859,
+    "wof:name":"Lilongwe",
+    "wof:parent_id":9895094109,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.68407,
+    -14.01962,
+    33.68407,
+    -14.01962
+],
+  "geometry": {"coordinates":[33.68407,-14.01962],"type":"Point"}
+}

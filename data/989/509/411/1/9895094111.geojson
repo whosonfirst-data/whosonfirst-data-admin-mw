@@ -1,0 +1,80 @@
+{
+  "id": 9895094111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.41829,-15.43007,35.41829,-15.43007",
+    "geom:latitude":-15.43007,
+    "geom:longitude":35.41829,
+    "gn:population":850000,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 923292 (Zomba District): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/923292"
+        },
+        {
+            "citation":"GeoNames division 923292 (Zomba District): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/923292"
+        },
+        {
+            "citation":"GeoNames division 923292 (Zomba District): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/923292"
+        },
+        {
+            "citation":"GeoNames division 923292 (Zomba District): a level 2 division under GeoNames division 923817 (Southern Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/923292"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Zomba"
+    ],
+    "name:eng_x_variant":[
+        "Zomba District"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573,
+        9895094107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923292
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"4379567d8bd283b856af426aa1533d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":9895094111,
+            "region_id":9895094107
+        }
+    ],
+    "wof:id":9895094111,
+    "wof:lastmodified":1795799859,
+    "wof:name":"Zomba",
+    "wof:parent_id":9895094107,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.41829,
+    -15.43007,
+    35.41829,
+    -15.43007
+],
+  "geometry": {"coordinates":[35.41829,-15.43007],"type":"Point"}
+}

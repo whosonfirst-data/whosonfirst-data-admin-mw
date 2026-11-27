@@ -1,0 +1,78 @@
+{
+  "id": 9895094108,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34,-11,34,-11",
+    "geom:latitude":-11.0,
+    "geom:longitude":34.0,
+    "gn:population":2289780,
+    "iso:country":"MW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 924591 (Northern Region): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/924591"
+        },
+        {
+            "citation":"GeoNames division 924591 (Northern Region): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/924591"
+        },
+        {
+            "citation":"GeoNames division 924591 (Northern Region): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/924591"
+        },
+        {
+            "citation":"GeoNames division 924591 (Northern Region): a level 1 division.",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/924591"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Northern"
+    ],
+    "name:eng_x_variant":[
+        "Northern Region"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924591
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"9868245bf13227161583ded45c3a7c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "region_id":9895094108
+        }
+    ],
+    "wof:id":9895094108,
+    "wof:lastmodified":1795799859,
+    "wof:name":"Northern",
+    "wof:parent_id":85632383,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.0,
+    -11.0,
+    34.0,
+    -11.0
+],
+  "geometry": {"coordinates":[34,-11],"type":"Point"}
+}

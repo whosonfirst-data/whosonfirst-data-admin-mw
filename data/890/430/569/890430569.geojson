@@ -21,6 +21,13 @@
     ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 924703 (Nkhotakota District): a level 2 division under GeoNames division 931597 (Central Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/924703"
+        }
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
@@ -175,8 +182,9 @@
     "src:population":"geonames",
     "wd:wordcount":90,
     "wof:belongsto":[
+        85632383,
         102191573,
-        85632383
+        9895094109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -192,13 +200,14 @@
         {
             "continent_id":102191573,
             "country_id":85632383,
-            "county_id":890430569
+            "county_id":890430569,
+            "region_id":9895094109
         }
     ],
     "wof:id":890430569,
-    "wof:lastmodified":1695887147,
+    "wof:lastmodified":1795799859,
     "wof:name":"Nkhotakota",
-    "wof:parent_id":-1,
+    "wof:parent_id":9895094109,
     "wof:placetype":"county",
     "wof:placetype_local":"district",
     "wof:population":286519,
